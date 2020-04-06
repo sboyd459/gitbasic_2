@@ -1,8 +1,15 @@
 public class SeriousClass{
+<<<<<<< HEAD
 	public int Login (String username, String pass){
 		return -1; 
 	} 
 	
+=======
+
+	public int Login(String username, String pass){
+		return -1;
+	} 
+>>>>>>> hotfix
   public SeriousClass(){
     System.out.println("This is a serious clas. Don't mess with it");
    }
